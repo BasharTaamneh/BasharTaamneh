@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+*I'm Bashar Taamneh,
+I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.
+I gained some basic programming knowledge by completing a project titled: Controlling Wheelchairs movement Using Brainwaves signals.
+now I'm a full-stack web developer after finishing a scholarship in LUTC.*
+
+[Portfolio](https://basharportfolio.netlify.app/)
+
+![](bbt.png)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh&show_icons=true&theme=dark)
 
 
