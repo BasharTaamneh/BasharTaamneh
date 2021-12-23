@@ -10,7 +10,7 @@ now I'm a full-stack web developer after finishing a scholarship in LUTC.*
 ![](bbt.png)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh&show_icons=true&theme=dark)
-
+<hr/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaamneh&theme=dark)
 
