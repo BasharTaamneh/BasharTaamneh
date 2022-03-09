@@ -8,7 +8,7 @@ I obtained a Bachelor’s degree from Al Hussein Bin Talal University in compute
 
 *now I'm a freelance and a full-stack developer based in Jordan after finishing a scholarship in LTUC-Jordan.*
 
-*I have a passion for building digital services/stuff I want. I have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly.*
+*I have a passion for building digital services stuff. I have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly.*
 
 [Portfolio](https://bashartaamneh.netlify.app/)
 
