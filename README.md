@@ -14,6 +14,8 @@ I obtained a Bachelor’s degree from Al Hussein Bin Talal University in compute
 
 ![](bbt.png)
 
+![](https://visitor-badge.glitch.me/badge?page_id=BasharTaamneh)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh&show_icons=true&theme=dark)
 <hr/>
 
